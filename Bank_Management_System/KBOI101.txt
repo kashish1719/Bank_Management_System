@@ -1,0 +1,18 @@
+Aakruti
+KBOI101
+demo123
+12345
+aakruti@gmail.com
+1234567890
+4500
+Deposit: 500.000000
+Deposit: 500.000000
+Deposit: 2000.000000
+Withdraw: 200.000000
+Deposit: 500.000000
+Deposit: 500.000000
+Deposit: 500.000000
+Deposit: 2000.000000
+Withdraw: 200.000000
+Deposit: 500.000000
+Deposit: 4000.000000

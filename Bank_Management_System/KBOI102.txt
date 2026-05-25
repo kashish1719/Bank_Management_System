@@ -1,0 +1,11 @@
+Kashish Singh
+KBOI102
+test@123
+987654
+test@gmail.com
+321456
+2100
+Deposit: 500.000000
+Deposit: 500.000000
+Deposit: 2000.000000
+Withdraw: 400.000000
